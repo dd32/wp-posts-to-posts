@@ -3,9 +3,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Posts 2 Posts 1.7.6\n"
+"Project-Id-Version: Posts 2 Posts 1.7.7\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/p2p\n"
-"POT-Creation-Date: 2025-12-03 20:05+0530\n"
+"POT-Creation-Date: 2026-03-05 21:01+0530\n"
 "PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
 "Last-Translator: \n"
 "Language-Team: AyeCode Ltd <contact@ayecode.io>\n"
@@ -63,46 +63,46 @@ msgstr ""
 msgid "Delete connection"
 msgstr ""
 
-#: admin/tools-page.php:19
+#: admin/tools-page.php:20
 msgid "Connection Types"
 msgstr ""
 
-#: admin/tools-page.php:51
+#: admin/tools-page.php:54
 #, php-format
 msgid "<em>%s</em> is not a registered connection type."
 msgstr ""
 
-#: admin/tools-page.php:60
+#: admin/tools-page.php:63
 #, php-format
 msgid "Converted %1$s connections from <em>%2$s</em> to <em>%3$s</em>."
 msgstr ""
 
-#: admin/tools-page.php:74
+#: admin/tools-page.php:77
 msgid "Name"
 msgstr ""
 
-#: admin/tools-page.php:75
+#: admin/tools-page.php:78
 msgid "Information"
 msgstr ""
 
-#: admin/tools-page.php:76
+#: admin/tools-page.php:79
 msgid "Connections"
 msgstr ""
 
-#: admin/tools-page.php:84
+#: admin/tools-page.php:87
 msgid "No connection types registered."
 msgstr ""
 
-#: admin/tools-page.php:86
+#: admin/tools-page.php:89
 #, php-format
 msgid "To register a connection type, see <a href=\"%s\">the wiki</a>."
 msgstr ""
 
-#: admin/tools-page.php:103
+#: admin/tools-page.php:106
 msgid "Convert to registered connection type:"
 msgstr ""
 
-#: admin/tools-page.php:139
+#: admin/tools-page.php:142
 msgid "Go"
 msgstr ""
 
